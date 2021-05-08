@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+.flexrow{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.flexcol{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.redOne{
+    background-color: red;
+    width: 300px;
+    margin: 20px;
+    height: 500px;
+}
+.leftbeige{
+    background-color: beige;
+    width: 140px;
+    height: 200px;
+    margin: 20px;
+}
+
+.widebeige{
+    background-color: beige;
+    width:250px ;
+    height: 180px;
+
+}
+
+.blueone{
+    background-color: blue;
+    height: 180px;
+    width: 140px;
+    margin: 20px;
+}
+
+.adjFloat{
+    float: left;
+}
+
+.smallbeige{
+    background-color: beige;
+    height: 30px;
+    width: 15px;
+    margin: 15px;
+}
+
+.yellowOne{
+    background-color: yellow;
+    height: 30px;
+    width: 15px;
+    margin: 15px;
+}
