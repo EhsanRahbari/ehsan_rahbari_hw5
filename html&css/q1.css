@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+
+div{
+    float: right;
+    background-color: beige;
+    text-align: center;
+    height: 300px;
+    width: 250px;
+}
