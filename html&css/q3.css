@@ -1,0 +1,36 @@
+body{
+    background-color: lightblue;
+}
+
+.loginBox{
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 25px;
+    height: 250px;
+    width: 250px;
+}
+
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.samesize{
+    height: 25px;
+    width: 200px;
+    margin: 5px;
+}
+
+.bluebottun{
+    color: white;
+    background-color: blue;
+}
+
+.gray{
+    background-color: lightgray;
+    text-align: center;
+}
